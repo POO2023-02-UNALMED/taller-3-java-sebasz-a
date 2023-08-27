@@ -109,7 +109,7 @@ public class TV {
 		if (this.estado == false){
 			return;
 		}
-		else if (this.canal == 0){
+		else if (this.canal == 1){
 			return;
 		}
 		canal--;
